@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=Toggle TOUCH
+Comment=GTK+ based simple text editor
+Icon=/usr/share/pixmaps/leafpad.xpm
+Exec=bash /home/pi/toggle_touchscreen.sh
+Terminal=false
+Categories=X-Debian-Applications-Editors;
